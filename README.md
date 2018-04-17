@@ -1,4 +1,4 @@
 # Automated-Login-Script-Twitter
 Simple Automated Login Script for Twitter. 
-Username and Password not hardcoded. Will prompt user for username and password when ran and will not show password characters when being input. 
+Username and Password not hardcoded. Will prompt user for username and password when ran and will not show password characters when being input. (Password remains secure.)
 Purpose is to have reusable code that can be called as a method in other scripts to avoid having to recode logging in.
