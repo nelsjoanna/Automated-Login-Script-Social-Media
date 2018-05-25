@@ -5,7 +5,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from getpass import getpass
 
-usr = raw_input('Enter your username or email: ')
+usr = input('Enter your username or email: ')
 pwd = getpass('Enter your password : ')
 url = 'https://www.twitter.com/login'
 
